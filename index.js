@@ -62,5 +62,5 @@ switch(option) {
                 } 
                 break;
             default: 
-               console.log( "Game Over" );
+            console.log( "Start again, and make sure to type each option correctly!" );
         }
